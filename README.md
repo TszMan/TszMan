@@ -1,4 +1,4 @@
-### Hi there 👋
+# Welcome to Tsz's profile
 
 <!--
 **TszMan/TszMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm an electrical engineer with more than 6 year's experience in the industry.
+
+I'm currently attending a software engineering bootcamp organised by HyperionDev, and learning Python, Django, SQL and NLP.
+
+Please find my latest capstone project [here](https://github.com/TszMan/finalCapstone.git).
